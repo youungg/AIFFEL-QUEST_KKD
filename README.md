@@ -1,4 +1,4 @@
-# AIFEEL-QUEST
+# AIFFEL-QUEST
 
 ### 💡 What is AIFFEL? What is QUEST?
 _**AIFFEL**_ is AI technology course based on national support to encourge employmnet.  
