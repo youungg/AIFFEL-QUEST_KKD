@@ -2,8 +2,7 @@
 - 코더 : 윤진환 (네비게이터 : 강다은)
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
-- exploration_02_1_quest.ipynb : 윤진환 & 강다은 협업 퀘스트
-- exploration_02_2_quest.ipynb : 윤진환 & 강다은 협업 퀘스트
+- exploration_02_quest.ipynb : 윤진환 & 강다은 협업 퀘스트
 - exploration_02_1_practice.ipynb : 강다은 혼자 연습
 - exploration_02_2_practice.ipynb : 강다은 혼자 연습
 
