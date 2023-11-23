@@ -8,11 +8,10 @@
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?** 네
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-    - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
-    퀘스트 문제 요구조건 등을 지칭
-        - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
-          <img width="528" alt="image" src="https://github.com/khnhar/AIFFEL-QUEST/assets/130530651/0a03951f-be1e-4847-9259-265703135066">
-          <img width="590" alt="image" src="https://github.com/khnhar/AIFFEL-QUEST/assets/130530651/83925b1a-be9c-4078-82f6-6e8293d37c44">
+    - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 퀘스트 문제 요구조건 등을 지칭
+    - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부<br>
+          <img width="528" alt="image" src="https://github.com/khnhar/AIFFEL-QUEST/assets/130530651/0a03951f-be1e-4847-9259-265703135066"><br>
+          <img width="590" alt="image" src="https://github.com/khnhar/AIFFEL-QUEST/assets/130530651/83925b1a-be9c-4078-82f6-6e8293d37c44"><br>
           평가 : 코 변수를 따로 만들어서, 계산하신 부분이 인상적이었습니다. 그래서 정확한 결과가 나온 것 같습니다. 
 
     
