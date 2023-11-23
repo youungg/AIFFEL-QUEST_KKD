@@ -1,6 +1,8 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
+- 코더 : 강다은 (네비게이터 : 옥창우)
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
+
+- result.pdf 에서 로컬 사진을 이용한 실험 결과 확인 가능
 
 
 # PRT(Peer Review Template)
