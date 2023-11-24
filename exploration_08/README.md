@@ -6,15 +6,27 @@
 # PRT(Peer Review Template)
 - [o]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     1. 다양한 방법으로 Text Classification 태스크를 성공적으로 구현하였다.	3가지 이상의 모델이 성공적으로 시도됨
-![image](https://github.com/happybin2013/AIFFEL-QUEST_DiANA-KANG/assets/85716670/3bb4b345-d496-4b4c-a347-a74889b8ff54)
+- RNN  
+![image](https://github.com/happybin2013/AIFFEL-QUEST_DiANA-KANG/assets/85716670/397d135e-faf5-497a-8e0c-e164ea1f52e5)  
+
+- CNN  
+![image](https://github.com/happybin2013/AIFFEL-QUEST_DiANA-KANG/assets/85716670/70ab2374-0ba3-4efb-b57b-8989fa02b419)  
+
+- POOL  
+  ![image](https://github.com/happybin2013/AIFFEL-QUEST_DiANA-KANG/assets/85716670/138e135a-f9db-4b11-98e4-1e85275bdbdb)  
 
 **-> RNN, CNN, POOL로 구분하여 3가지 이상 성공적으로 시도된 것을 확인할 수 있다.**
 
        
     2. gensim을 활용하여 자체학습된 혹은 사전학습된 임베딩 레이어를 분석하였다.	gensim의 유사단어 찾기를 활용하여 자체학습한 임베딩과 사전학습 임베딩을 비교 분석함
 
+- 자체학습  
+![image](https://github.com/happybin2013/AIFFEL-QUEST_DiANA-KANG/assets/85716670/1ce1ca42-3b18-4ee5-8843-b19f90c573cf)  
 
-**-> 자체학습한 데이터와 임베딩한 데이터의 차이점을 잘 비교했다.**
+- 사전학습  
+![image](https://github.com/happybin2013/AIFFEL-QUEST_DiANA-KANG/assets/85716670/a47930cd-dcce-4618-b8ab-6e0505159711)  
+
+**-> 자체학습한 데이터와 임베딩한 데이터가 차이가 나는 것을 볼 수 있다.**
 
        
     3. 한국어 Word2Vec을 활용하여 가시적인 성능향상을 달성했다.	네이버 영화리뷰 데이터 감성분석 정확도를 85% 이상 달성함
