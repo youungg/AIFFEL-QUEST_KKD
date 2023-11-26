@@ -14,4 +14,8 @@ This repository is to record these assignments, and might be activated during th
 - "/onboard" : practice for using mark-down languange
 - "/exploration" : practice for implementing various ML/DL applications
     - "/exploration_02" : basic functions of Matplotlib, Seaborn, Scikit Learn
-    - "/exploration_03" : first practice & submission of Korea Kaggle topic
+    - "/exploration_04" : first practice & submission of Korea Kaggle topic
+    - "/exploration_06" : detection of human faces from images & simple image composition
+    - "/exploration_08" : analysis of English/Korean texts (movie review) and decision of positive/negative
+    - "/exploration_10" : segmentation of specific objects from images & simple image composition
+    - "/exploration_12" : 
