@@ -1,4 +1,4 @@
-![image](https://github.com/happybin2013/AIFFEL-QUEST_DiANA-KANG/assets/85716670/bb8722b0-d2ba-4d78-9417-0cca63e87add)# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 강다은 (네비게이터 : 윤진환)
 - 리뷰어 : 이승제
 
