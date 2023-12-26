@@ -21,6 +21,8 @@ This repository is to record these assignments, and might be activated during th
     - `/exploration_12` :
     - `/exploration_14` :
     - `/exploration_16` :
+- `/overview` :
+    - `/overview_10` :
 - `/deeper` : practice for implementing applied DL applications for CV
     - `/deeper_03` : implementation of ResNet and its ablation study
 - `/main` :
