@@ -11,11 +11,18 @@ This repository is to record these assignments, and might be activated during th
 <br/>
 
 ### 🗂️ What codes are in _AIFFEL-QUEST_ repository?
-- "/onboard" : practice for using mark-down languange
-- "/exploration" : practice for implementing various ML/DL applications
-    - "/exploration_02" : basic functions of Matplotlib, Seaborn, Scikit Learn
-    - "/exploration_04" : first practice & submission of Korea Kaggle topic
-    - "/exploration_06" : detection of human faces from images & simple image composition
-    - "/exploration_08" : analysis of English/Korean texts (movie review) and decision of positive/negative
-    - "/exploration_10" : segmentation of specific objects from images & simple image composition
-    - "/exploration_12" : 
+- `/onboard` : practice for using mark-down languange
+- `/exploration` : practice for implementing various ML/DL applications
+    - `/exploration_02` : basic functions of Matplotlib, Seaborn, Scikit Learn
+    - `/exploration_04` : first practice & submission of Korea Kaggle topic
+    - `/exploration_06` : detection of human faces from images & simple image composition
+    - `/exploration_08` : analysis of English/Korean texts (movie review) and decision of positive/negative
+    - `/exploration_10` : segmentation of specific objects from images & simple image composition
+    - `/exploration_12` :
+    - `/exploration_14` :
+    - `/exploration_16` :
+- `/deeper` : practice for implementing applied DL applications for CV
+    - `/deeper_03` : implementation of ResNet and its ablation study
+- `/main` :
+    - `/main_01` : image classification using ResNet-18
+    - `/main_02` : image segmentation using U-net
