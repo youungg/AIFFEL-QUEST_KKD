@@ -11,20 +11,20 @@ This repository is to record these assignments, and might be activated during th
 <br/>
 
 ### 🗂️ What codes are in _AIFFEL-QUEST_ repository?
-- `/onboard` : practice for using mark-down languange
-- `/exploration` : practice for implementing various ML/DL applications
+- `/RS7_course_01_onboard` : practice for using mark-down languange
+- `/RS7_course_03_exploration` : practice for implementing various ML/DL applications
     - `/exploration_02` : basic functions of Matplotlib, Seaborn, Scikit Learn
     - `/exploration_04` : first practice & submission of Korea Kaggle topic
-    - `/exploration_06` : detection of human faces from images & simple image composition
-    - `/exploration_08` : analysis of English/Korean texts (movie review) and decision of positive/negative
-    - `/exploration_10` : segmentation of specific objects from images & simple image composition
-    - `/exploration_12` :
-    - `/exploration_14` :
-    - `/exploration_16` :
-- `/overview` :
-    - `/overview_10` :
-- `/deeper` : practice for implementing applied DL applications for CV
-    - `/deeper_03` : implementation of ResNet and its ablation study
-- `/main` :
+    - `/exploration_06` : C V - detection of human faces from images & simple image composition
+    - `/exploration_08` : NLP - classification of English/Korean texts (movie review)
+    - `/exploration_10` : C V - segmentation of specific objects from images & simple image composition
+    - `/exploration_12` : NLP - summarization of news articles
+    - `/exploration_14` : C V - prediction of colored image from segmented image
+    - `/exploration_16` : NLP - prediction of responsing texts from original texts (chatbot)
+- `/RS7_course_04_dl_overview` : practice for implementing simple ML/DL code 
+- `/RS7_course_99_going_deeper_cv` : practice for implementing applied DL applications for CV
+    - `/going_deeper_cv_03` : implementation of ResNet and its ablation study
+    - `/going_deeper_cv_06` : implementation of CutMix & MixUp augmentation and its ablation study
+- `/main` : challenging practice within 8 hours
     - `/main_01` : image classification using ResNet-18
     - `/main_02` : image segmentation using U-net
