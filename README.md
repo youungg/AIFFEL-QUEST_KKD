@@ -30,7 +30,7 @@
 - `/RS7_course_08_going_deeper_cv` : practice for implementing applied DL applications for CV
     - `/going_deeper_cv_03` : implementation of ResNet and its ablation study
     - `/going_deeper_cv_06` : implementation of CutMix & MixUp augmentation and its ablation study
-    - `/going_deeper_cv_09` :
+    - `/going_deeper_cv_09` : implementation of CAM & Grad-CAM and its comparison
     - `/going_deeper_cv_12` :
       
 - `/RS7_course_99_main` : challenging practice within 8 hours
