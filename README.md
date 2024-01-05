@@ -31,7 +31,8 @@
     - `/going_deeper_cv_03` : implementation of ResNet and its ablation study
     - `/going_deeper_cv_06` : implementation of CutMix & MixUp augmentation and its ablation study
     - `/going_deeper_cv_09` : implementation of CAM & Grad-CAM and its comparison
-    - `/going_deeper_cv_12` :
+    - `/going_deeper_cv_12` : implementation of RetinaNet for object detection
+    - `/going_deeper_cv_15` :
       
 - `/RS7_course_99_main` : challenging practice within 8 hours
     - `/main_01` : image classification using ResNet-18
