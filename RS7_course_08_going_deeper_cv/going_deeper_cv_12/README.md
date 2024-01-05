@@ -11,6 +11,7 @@
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
 
 <br/>
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/e108c799-d35d-46e6-8e58-9b89c666cf16)
 
 
