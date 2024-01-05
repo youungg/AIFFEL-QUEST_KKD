@@ -84,6 +84,7 @@ validation이 추가되었고, train history를 그려 loss 값을 확인하였�
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
 <br/>
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/cf5d232a-b665-4d41-9713-b1f250819c32)
 
 <br/>
