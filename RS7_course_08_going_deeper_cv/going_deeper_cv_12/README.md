@@ -12,9 +12,15 @@
      
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/e108c799-d35d-46e6-8e58-9b89c666cf16)
 
+<br/>
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/b9af2c3b-a93b-48b2-88c7-7fe6761901bd)
 
+<br/>
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/9496c264-4f19-4d70-bef6-f946485d99c0)
+
+<br/>
 
 작성된 코드를 보았을 때, 데이터셋 전처리를 정상적으로 진행했을 뿐더러,
 
