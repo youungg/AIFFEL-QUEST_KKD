@@ -25,7 +25,9 @@
       
 - `/RS7_course_04_dl_overview` : practice for implementing simple ML/DL code
 
-- No quest in `RS7_course_05`, `RS7_course_06`, `RS7_course_07`
+- No quest in `RS7_course_05`, `RS7_course_06`
+
+- `/RS7_course_07_start_dl_cv` : practice for implementing simple CV tasks
   
 - `/RS7_course_08_going_deeper_cv` : practice for implementing applied DL applications for CV
     - `/going_deeper_cv_03` : implementation of ResNet and its ablation study
