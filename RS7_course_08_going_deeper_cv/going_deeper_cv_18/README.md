@@ -12,8 +12,11 @@
      
 <br/>
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/9b8b5c87-7d7c-4b9e-a179-54ec5ec86266)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/838262cd-7ced-4f63-a29a-045dfa5272a6)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/0a5b75ea-638a-48ab-91d4-a993840b61a7)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/1d5006b9-e3dd-4258-aad1-d41402f5b086)
 
 <br/> 
@@ -31,7 +34,9 @@
      
 <br/>
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/21e401ca-985d-4a3b-a717-908ed856f7a0)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/265f2a4e-96f3-48ea-9d81-101e24d262c3)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/7d458de8-76f7-4425-b35a-2a20fe942a5f)
 <br/> 
 
@@ -49,13 +54,11 @@
      
 <br/> 
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/60abb063-03d4-4bd5-bdf3-a1d0807fc372)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/7d9b8f0c-d2e7-4599-a5aa-6c68b783a565)
 
 <br/>
 코드상 수정된 부분이 있고, 코드 구현 결과가 이상없이 잘 해결된 것으로 미루어 보아 에러가 난 부분을 문제없이 디버깅하였음을 알 수 있다.
-
-
-![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/31f48c9b-ec70-4954-99f5-d0679b0bf7fb)
 
 <br/><br/><br/>
 
@@ -77,7 +80,9 @@
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 <br/>
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/b9bbf40a-e7d6-4a74-b288-f5c807fb106c)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/e9c22b44-67c3-4d40-a065-815dcfeeb458)
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/f6acbea1-dd04-40b8-9e7a-016c66f921c0)
 <br/>
 거의 대부분 코드가 함수화 되어 있어 코드가 간결하게 작성되어있음을 알 수 있다.
