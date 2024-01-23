@@ -34,11 +34,13 @@
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
      
 <br/>
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/21e401ca-985d-4a3b-a717-908ed856f7a0)
 
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/265f2a4e-96f3-48ea-9d81-101e24d262c3)
 
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/7d458de8-76f7-4425-b35a-2a20fe942a5f)
+
 <br/> 
 
 작성된 코드의 대부분에 주석이 작성되어있어 코드 해석에 편의성 및 작동 원리를 한눈에 이해 할 수 있다.
@@ -54,6 +56,7 @@
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
      
 <br/> 
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/60abb063-03d4-4bd5-bdf3-a1d0807fc372)
 
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/7d9b8f0c-d2e7-4599-a5aa-6c68b783a565)
@@ -68,7 +71,8 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-<br/>     
+<br/>
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/91cade09-c0f1-4711-a2b5-d0da83e5e516)
 
 <br/>
@@ -80,6 +84,7 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 <br/>
+
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/b9bbf40a-e7d6-4a74-b288-f5c807fb106c)
 
 ![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/e9c22b44-67c3-4d40-a065-815dcfeeb458)
