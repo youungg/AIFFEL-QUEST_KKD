@@ -54,6 +54,9 @@
 <br/>
 코드상 수정된 부분이 있고, 코드 구현 결과가 이상없이 잘 해결된 것으로 미루어 보아 에러가 난 부분을 문제없이 디버깅하였음을 알 수 있다.
 
+
+![image](https://github.com/youungg/AIFFEL-QUEST_KKD/assets/149548911/31f48c9b-ec70-4954-99f5-d0679b0bf7fb)
+
 <br/><br/><br/>
 
 - [x]  **4. 회고를 잘 작성했나요?**
